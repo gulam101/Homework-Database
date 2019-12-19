@@ -1,12 +1,6 @@
 # MVC_Homework
 
-Description:
-
-What I learnt:
-
-Constraints:
-
-Improvements:
+### Description:
 
 I was practising using ASP.Net and understanding the MVC controller. I learned about how to make the front-end pretty. I played around with the backend, for example, playing with the database and giving it information.
 
@@ -21,3 +15,21 @@ I got used to refrencing my classes so that I can see data from class A while I 
 My goal for this project was to understand how ASP.Net worked and get used to the server-sided language such as Razor. In this project, you can see that I was playing around with the data.
 
 I also worked with a little bit of JavaScript so that I can get used to using it.
+
+
+### What I learnt:
+- Understanding classes and referencing them better
+- Better naming conventions
+- Better understanding ASP.Net
+- Stronger understanding of front-end design
+- Better understanding of JavaScript
+- Better understanding of MVC
+
+### Constraints:
+
+None.
+
+### Improvements:
+
+None.
+

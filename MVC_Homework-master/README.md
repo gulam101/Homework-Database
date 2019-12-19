@@ -1,5 +1,13 @@
 # MVC_Homework
 
+Description:
+
+What I learnt:
+
+Constraints:
+
+Improvements:
+
 I was practising using ASP.Net and understanding the MVC controller. I learned about how to make the front-end pretty. I played around with the backend, for example, playing with the database and giving it information.
 
 I learned about what MVC stands for: Model-View-Controller.
